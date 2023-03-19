@@ -26,6 +26,12 @@ img{
 h1{
 	font-size: 15px;
 }
+h2{
+	text-align: left;
+	font-size: 8px;
+	margin: 0;
+	color:black;
+}
 p{
     text-align: left;
     font-size: 8px;
@@ -34,8 +40,10 @@ p{
 .author{
     color: #777777;
 }
-button{
+div{
 	width: 100%;
 	background-color: #2ecc71;
 	border: 0;
+	color: white;
+	font-size: 10px;
 }
